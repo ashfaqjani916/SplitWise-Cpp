@@ -1,8 +1,4 @@
-﻿  main.cpp
-C:\Users\ashfa\OneDrive\Desktop\Projects\SplitWise-Cpp\Splitwise\main.cpp(94,20): warning C4244: '+=': conversion from 'const _Ty2' to 'int', possible loss of data
-C:\Users\ashfa\OneDrive\Desktop\Projects\SplitWise-Cpp\Splitwise\main.cpp(94,20): warning C4244:         with
-C:\Users\ashfa\OneDrive\Desktop\Projects\SplitWise-Cpp\Splitwise\main.cpp(94,20): warning C4244:         [
-C:\Users\ashfa\OneDrive\Desktop\Projects\SplitWise-Cpp\Splitwise\main.cpp(94,20): warning C4244:             _Ty2=double
-C:\Users\ashfa\OneDrive\Desktop\Projects\SplitWise-Cpp\Splitwise\main.cpp(94,20): warning C4244:         ]
-  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+﻿  MyForm.cpp
+C:\Users\ashfa\OneDrive\Desktop\Projects\SplitWise-Cpp\Splitwise\MyForm.cpp(9,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
   Splitwise.vcxproj -> C:\Users\ashfa\OneDrive\Desktop\Projects\SplitWise-Cpp\Splitwise\x64\Debug\Splitwise.exe
