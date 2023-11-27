@@ -1,0 +1,2 @@
+C:\Users\ashfa\OneDrive\Desktop\Projects\SplitWise-Cpp\Splitwise\x64\Debug\Splitwise.vcxproj.AssemblyReference.cache
+C:\Users\ashfa\OneDrive\Desktop\Projects\SplitWise-Cpp\Splitwise\x64\Debug\Splitwise.exe
